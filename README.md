@@ -1,8 +1,13 @@
+<h2 align="left">Hi, I am Aniket ^^</h2>
 <p align="left">「</p>
 <br>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=87B7E8&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I+am+Aniket;I+don't+know+by+what;misfortune+you+landed+here++%2Fjk)](https://git.io/typing-svg)
+<img align="right" height="150" src="https://github.com/re1san/re1san/blob/main/Blink.gif?raw=true" />
+<div align="left">
+I like to code beautiful and functional stuff.
+Sometimes, I make pixelart.
+</div>
 
 </div>
 <br>
